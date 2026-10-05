@@ -10,8 +10,6 @@
 
 This repository implements a **three-system bridge** for analyzing nuclear motion in biological systems, combining physics simulation, machine learning classification, and neural ordinary differential equations (Neural ODEs).
 
-The work targets the PhD project: **"Characterization of active Brownian motion of cell nuclei"** (Fischer-Friedrich Lab, TU Dresden).
-
 ## The Three Systems
 
 ### 1. **Atomic Gradient Bridge** (Physics Simulation)
@@ -269,9 +267,9 @@ If you use this code in your research, please cite:
 
 ## Related Work
 
-- **Fischer-Friedrich Lab** - [Physics of Life, TU Dresden](https://tu-dresden.de/mn/physik/forschung/ag-fischer-friedrich)
-- **Dimari et al. (2025)** - "Mesenchymal-epithelial transition reduces proliferation but increases immune evasion in tumor spheroids"
-- **Hosseini et al. (2020)** - "EMT-Induced Cell-Mechanical Changes Enhance Mitotic Rounding Strength"
+- Research on active Brownian motion in cell biology
+- Physics-informed neural networks for dynamical systems
+- Transformer architectures for time-series classification
 
 ## License
 
@@ -279,17 +277,13 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-**Divakar Ravi Kumar**  
-DKFZ Heidelberg  
-Email: divakar2121@github.com  
 GitHub: [@divakar2121](https://github.com/divakar2121)
 
 ## Acknowledgments
 
 - Drosophila tracking data: Zenodo DOI: 10.5281/zenodo.21282216
-- Physics guidance: Fischer-Friedrich Lab publications
 - PyTorch community for excellent documentation
 
 ---
 
-**Built for the PhD project: "Characterization of active Brownian motion of cell nuclei"**
+**Physics-Informed Machine Learning for Active Brownian Motion Analysis**

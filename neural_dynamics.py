@@ -12,7 +12,6 @@ Three-System Bridge:
   3. Neural ODE:    Learn dynamics from data (predict future motion)
 
 Author: Divakar Ravi Kumar | October 2026
-Target: Fischer-Friedrich Lab PhD Application
 """
 
 import numpy as np
