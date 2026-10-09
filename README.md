@@ -217,23 +217,6 @@ CR = max_displacement / total_path_length
 - Prediction accuracy: 0.83 μm error over 19 timesteps
 - Enables discovery of underlying force fields from data
 
-## Limitations and Honest Assessment
-
-**System 1 (Atomic Bridge):**
-- ✅ Demonstrates physics understanding
-- ❌ Not machine learning (no learned representations)
-- ✅ Useful for visualization and intuition
-
-**System 2 (PiMT):**
-- ✅ Genuine ML with physics-informed features
-- ⚠️ Classification accuracy limited by class imbalance
-- ⚠️ Confidence calibration needs improvement
-
-**System 3 (Neural Dynamics):**
-- ✅ Genuine ML - learns from real data
-- ✅ Predicts future motion
-- ⚠️ Prediction error accumulates over time
-
 ## Applications
 
 This framework can be applied to:
